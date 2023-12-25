@@ -1,8 +1,5 @@
 ### Hi there 👋
-    'm student of Aligarh Muslim University (grad student). I am a versetile person with abilities and skills. I'm a quick learner, multi-tasker and perseverer.
-
-
-
+-I'm student of Aligarh Muslim University (grad student). I am a versetile person with abilities and skills. I'm a quick learner, multi-tasker and perseverer.
 
 
 - 🔭 I’m currently working on ...
